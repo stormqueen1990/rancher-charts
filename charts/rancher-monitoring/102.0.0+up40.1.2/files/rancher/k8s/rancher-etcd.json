@@ -584,6 +584,7 @@
       "timeShift": null,
       "title": "Disk Sync Duration",
       "tooltip": {
+        "msResolution": false,
         "shared": true,
         "sort": 0,
         "value_type": "individual"
