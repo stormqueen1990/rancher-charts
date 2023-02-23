@@ -8484,7 +8484,7 @@ entries:
       catalog.cattle.io/upstream-version: 19.0.3
     apiVersion: v2
     appVersion: 0.59.1
-    created: "2023-02-23T16:22:20.019391-05:00"
+    created: "2023-02-23T17:10:13.176714-05:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -8555,7 +8555,7 @@ entries:
     description: Collects several related Helm charts, Grafana dashboards, and Prometheus
       rules combined with documentation and scripts to provide easy to operate end-to-end
       Kubernetes cluster monitoring with Prometheus using the Prometheus Operator.
-    digest: 02584c4d5246b6fbb48ffad7fd4f5c08fee58321deb75020abd6399f3ba4fccc
+    digest: 98b66b72ddb7a9350c433e6792b42463124daebd4919f799c41a05f625b3f025
     home: https://github.com/prometheus-operator/kube-prometheus
     icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
     keywords:
